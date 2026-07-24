@@ -12,3 +12,4 @@
 [2026-07-23T19:56:14+05:30] (0011) perf: reuse contact manifold arrays across physics update ticks
 [2026-07-24T09:21:30+05:30] (0012) test: add stress benchmark with 500 simultaneous bouncing spheres
 [2026-07-24T12:01:57+05:30] (0013) docs: document broad-phase vs narrow-phase pipeline stages
+[2026-07-24T14:45:52+05:30] (0014) refactor: separate continuous collision detection from discrete solver
