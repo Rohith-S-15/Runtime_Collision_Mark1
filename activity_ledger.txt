@@ -14,3 +14,4 @@
 [2026-07-24T12:01:57+05:30] (0013) docs: document broad-phase vs narrow-phase pipeline stages
 [2026-07-24T14:45:52+05:30] (0014) refactor: separate continuous collision detection from discrete solver
 [2026-07-24T17:26:15+05:30] (0015) perf: vectorize dot product loops using SIMD-aligned arrays
+[2026-07-24T20:11:21+05:30] (0016) fix: correct restitution coefficient calculation on inelastic impact
