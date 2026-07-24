@@ -10,3 +10,4 @@
 [2026-07-23T12:39:19+05:30] (0009) style: format debug raycast rendering vectors in viewport
 [2026-07-23T16:24:12+05:30] (0010) feat: implement capsule-to-capsule collision distance query
 [2026-07-23T19:56:14+05:30] (0011) perf: reuse contact manifold arrays across physics update ticks
+[2026-07-24T09:21:30+05:30] (0012) test: add stress benchmark with 500 simultaneous bouncing spheres
