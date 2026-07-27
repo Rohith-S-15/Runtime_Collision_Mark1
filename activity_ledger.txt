@@ -26,3 +26,4 @@
 [2026-07-26T20:32:42+05:30] (0025) refactor: simplify physics step integration into fixed time delta
 [2026-07-27T09:06:38+05:30] (0026) feat: add angular velocity damping calculation on impact
 [2026-07-27T10:52:55+05:30] (0027) test: benchmark manifold generation latency under heavy load
+[2026-07-27T12:33:58+05:30] (0028) fix: resolve tunneling issue for high-velocity rigid bodies
