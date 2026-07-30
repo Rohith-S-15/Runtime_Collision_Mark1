@@ -47,3 +47,4 @@
 [2026-07-29T21:44:56+05:30] (0046) feat: add angular velocity damping calculation on impact
 [2026-07-30T09:01:46+05:30] (0047) test: benchmark manifold generation latency under heavy load
 [2026-07-30T11:06:14+05:30] (0048) fix: resolve tunneling issue for high-velocity rigid bodies
+[2026-07-30T13:03:35+05:30] (0049) style: format debug raycast rendering vectors in viewport
