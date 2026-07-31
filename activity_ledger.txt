@@ -56,3 +56,4 @@
 [2026-07-31T11:54:38+05:30] (0055) perf: vectorize dot product loops using SIMD-aligned arrays
 [2026-07-31T14:49:44+05:30] (0056) fix: correct restitution coefficient calculation on inelastic impact
 [2026-07-31T17:42:54+05:30] (0057) feat: add visual collision normal debug vectors on contact points
+[2026-07-31T20:32:36+05:30] (0058) fix: handle zero-mass inverse calculations cleanly
