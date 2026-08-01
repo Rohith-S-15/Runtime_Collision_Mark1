@@ -60,3 +60,4 @@
 [2026-08-01T09:05:32+05:30] (0059) perf: optimize collision pair pruning with bounding volume hierarchy
 [2026-08-01T12:41:19+05:30] (0060) chore: clean up compiler warnings on matrix multiplication helpers
 [2026-08-01T16:19:41+05:30] (0061) feat: implement spatial grid partition for broad-phase collision
+[2026-08-01T19:48:56+05:30] (0062) fix: clamp friction torque to avoid negative spin divergence
