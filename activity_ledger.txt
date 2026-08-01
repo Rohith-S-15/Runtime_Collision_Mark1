@@ -58,3 +58,4 @@
 [2026-07-31T17:42:54+05:30] (0057) feat: add visual collision normal debug vectors on contact points
 [2026-07-31T20:32:36+05:30] (0058) fix: handle zero-mass inverse calculations cleanly
 [2026-08-01T09:05:32+05:30] (0059) perf: optimize collision pair pruning with bounding volume hierarchy
+[2026-08-01T12:41:19+05:30] (0060) chore: clean up compiler warnings on matrix multiplication helpers
