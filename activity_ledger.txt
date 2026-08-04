@@ -75,3 +75,4 @@
 [2026-08-04T09:23:17+05:30] (0074) refactor: separate continuous collision detection from discrete solver
 [2026-08-04T11:02:32+05:30] (0075) perf: vectorize dot product loops using SIMD-aligned arrays
 [2026-08-04T12:51:40+05:30] (0076) fix: correct restitution coefficient calculation on inelastic impact
+[2026-08-04T14:40:50+05:30] (0077) feat: add visual collision normal debug vectors on contact points
