@@ -79,3 +79,4 @@
 [2026-08-04T16:23:22+05:30] (0078) fix: handle zero-mass inverse calculations cleanly
 [2026-08-04T18:05:13+05:30] (0079) perf: optimize collision pair pruning with bounding volume hierarchy
 [2026-08-04T19:51:48+05:30] (0080) chore: clean up compiler warnings on matrix multiplication helpers
+[2026-08-04T21:45:40+05:30] (0081) feat: implement spatial grid partition for broad-phase collision
