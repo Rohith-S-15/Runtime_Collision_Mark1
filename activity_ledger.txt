@@ -77,3 +77,4 @@
 [2026-08-04T12:51:40+05:30] (0076) fix: correct restitution coefficient calculation on inelastic impact
 [2026-08-04T14:40:50+05:30] (0077) feat: add visual collision normal debug vectors on contact points
 [2026-08-04T16:23:22+05:30] (0078) fix: handle zero-mass inverse calculations cleanly
+[2026-08-04T18:05:13+05:30] (0079) perf: optimize collision pair pruning with bounding volume hierarchy
