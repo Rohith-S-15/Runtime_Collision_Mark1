@@ -73,3 +73,4 @@
 [2026-08-03T17:51:49+05:30] (0072) test: add stress benchmark with 500 simultaneous bouncing spheres
 [2026-08-03T20:52:37+05:30] (0073) docs: document broad-phase vs narrow-phase pipeline stages
 [2026-08-04T09:23:17+05:30] (0074) refactor: separate continuous collision detection from discrete solver
+[2026-08-04T11:02:32+05:30] (0075) perf: vectorize dot product loops using SIMD-aligned arrays
