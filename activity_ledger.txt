@@ -83,3 +83,4 @@
 [2026-08-05T09:10:54+05:30] (0082) fix: clamp friction torque to avoid negative spin divergence
 [2026-08-05T10:40:19+05:30] (0083) perf: reduce memory allocations during narrow phase sweep
 [2026-08-05T12:18:29+05:30] (0084) docs: add mathematical documentation for impulse resolution formula
+[2026-08-05T13:57:39+05:30] (0085) refactor: simplify physics step integration into fixed time delta
