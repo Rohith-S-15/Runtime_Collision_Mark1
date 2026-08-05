@@ -84,3 +84,4 @@
 [2026-08-05T10:40:19+05:30] (0083) perf: reduce memory allocations during narrow phase sweep
 [2026-08-05T12:18:29+05:30] (0084) docs: add mathematical documentation for impulse resolution formula
 [2026-08-05T13:57:39+05:30] (0085) refactor: simplify physics step integration into fixed time delta
+[2026-08-05T15:35:30+05:30] (0086) feat: add angular velocity damping calculation on impact
