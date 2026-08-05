@@ -88,3 +88,4 @@
 [2026-08-05T17:18:50+05:30] (0087) test: benchmark manifold generation latency under heavy load
 [2026-08-05T18:46:57+05:30] (0088) fix: resolve tunneling issue for high-velocity rigid bodies
 [2026-08-05T20:25:28+05:30] (0089) style: format debug raycast rendering vectors in viewport
+[2026-08-05T21:55:30+05:30] (0090) feat: implement capsule-to-capsule collision distance query
